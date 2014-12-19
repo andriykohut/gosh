@@ -6,14 +6,14 @@ A CLI to Google URL Shortener
 ## Installation
 `go get github.com/andriykohut/gosh`
 ## Usage
-Simple:
+**Simple:**
 ```
 gosh https://github.com/andriykohut/gosh
 
 https://github.com/andriykohut/gosh	 => http://goo.gl/VZYOZG
 ```
 
-Batch:
+**Batch:**
 ```
 gosh https://github.com/andriykohut/gosh http://www.reddit.com/r/golang/comments/2fjwyk/isdir_in_go/
 
